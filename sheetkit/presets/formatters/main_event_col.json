@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Impact",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "main_event:Dark2"
+    },
+    "-2": {
+      "font_name": "Impact",
+      "font_size": 11,
+      "fg_color": "main_event:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "main_event:Dark2"
+    },
+    "0": {
+      "font_name": "Impact",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "main_event:Accent1",
+      "font_color": "main_event:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "main_event:Dark2"
+    }
+  },
+  "name": "_main_event_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Main Event.thmx",
+    "scheme_name": "Main Event",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "424242",
+      "light2": "C8C8C8",
+      "accent1": "B80E0F",
+      "accent2": "A6987D",
+      "accent3": "7F9A71",
+      "accent4": "64969F",
+      "accent5": "9B75B2",
+      "accent6": "80737A",
+      "hlink": "F21213",
+      "folHlink": "B6A394"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "424242",
+        "transforms": [],
+        "value": "424242"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "C8C8C8",
+        "transforms": [],
+        "value": "C8C8C8"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "B80E0F",
+        "transforms": [],
+        "value": "B80E0F"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "A6987D",
+        "transforms": [],
+        "value": "A6987D"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "7F9A71",
+        "transforms": [],
+        "value": "7F9A71"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "64969F",
+        "transforms": [],
+        "value": "64969F"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "9B75B2",
+        "transforms": [],
+        "value": "9B75B2"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "80737A",
+        "transforms": [],
+        "value": "80737A"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "F21213",
+        "transforms": [],
+        "value": "F21213"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "B6A394",
+        "transforms": [],
+        "value": "B6A394"
+      }
+    },
+    "fonts": {
+      "major": "Impact",
+      "minor": "Impact"
+    },
+    "name": "main_event"
+  }
+}

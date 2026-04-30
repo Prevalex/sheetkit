@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Century Gothic",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "vapor_trail:Dark2"
+    },
+    "-2": {
+      "font_name": "Century Gothic",
+      "font_size": 11,
+      "fg_color": "vapor_trail:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "vapor_trail:Dark2"
+    },
+    "0": {
+      "font_name": "Century Gothic",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "vapor_trail:Accent1",
+      "font_color": "vapor_trail:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "vapor_trail:Dark2"
+    }
+  },
+  "name": "_vapor_trail_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Vapor Trail.thmx",
+    "scheme_name": "Vapor Trail",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "454545",
+      "light2": "DADADA",
+      "accent1": "DF2E28",
+      "accent2": "FE801A",
+      "accent3": "E9BF35",
+      "accent4": "81BB42",
+      "accent5": "32C7A9",
+      "accent6": "4A9BDC",
+      "hlink": "F0532B",
+      "folHlink": "F38B53"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "454545",
+        "transforms": [],
+        "value": "454545"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "DADADA",
+        "transforms": [],
+        "value": "DADADA"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "DF2E28",
+        "transforms": [],
+        "value": "DF2E28"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "FE801A",
+        "transforms": [],
+        "value": "FE801A"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "E9BF35",
+        "transforms": [],
+        "value": "E9BF35"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "81BB42",
+        "transforms": [],
+        "value": "81BB42"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "32C7A9",
+        "transforms": [],
+        "value": "32C7A9"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "4A9BDC",
+        "transforms": [],
+        "value": "4A9BDC"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "F0532B",
+        "transforms": [],
+        "value": "F0532B"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "F38B53",
+        "transforms": [],
+        "value": "F38B53"
+      }
+    },
+    "fonts": {
+      "major": "Century Gothic",
+      "minor": "Century Gothic"
+    },
+    "name": "vapor_trail"
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Calibri",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "office_theme:Dark2"
+    },
+    "-2": {
+      "font_name": "Calibri",
+      "font_size": 11,
+      "fg_color": "office_theme:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "office_theme:Dark2"
+    },
+    "0": {
+      "font_name": "Calibri",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "office_theme:Accent1",
+      "font_color": "office_theme:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "office_theme:Dark2"
+    }
+  },
+  "name": "office_theme_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Office Theme.thmx",
+    "scheme_name": "Office Theme",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "44546A",
+      "light2": "E7E6E6",
+      "accent1": "4472C4",
+      "accent2": "ED7D31",
+      "accent3": "A5A5A5",
+      "accent4": "FFC000",
+      "accent5": "5B9BD5",
+      "accent6": "70AD47",
+      "hlink": "0563C1",
+      "folHlink": "954F72"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "44546A",
+        "transforms": [],
+        "value": "44546A"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "E7E6E6",
+        "transforms": [],
+        "value": "E7E6E6"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "4472C4",
+        "transforms": [],
+        "value": "4472C4"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "ED7D31",
+        "transforms": [],
+        "value": "ED7D31"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "A5A5A5",
+        "transforms": [],
+        "value": "A5A5A5"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "FFC000",
+        "transforms": [],
+        "value": "FFC000"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "5B9BD5",
+        "transforms": [],
+        "value": "5B9BD5"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "70AD47",
+        "transforms": [],
+        "value": "70AD47"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "0563C1",
+        "transforms": [],
+        "value": "0563C1"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "954F72",
+        "transforms": [],
+        "value": "954F72"
+      }
+    },
+    "fonts": {
+      "major": "Calibri Light",
+      "minor": "Calibri"
+    },
+    "variants": [
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "1D9A78",
+          "accent2": "8BC145",
+          "accent3": "36AFCE",
+          "accent4": "1D6FA9",
+          "accent5": "B74919",
+          "accent6": "F19D19",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "1D9A78",
+            "transforms": [],
+            "value": "1D9A78"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "8BC145",
+            "transforms": [],
+            "value": "8BC145"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "36AFCE",
+            "transforms": [],
+            "value": "36AFCE"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "1D6FA9",
+            "transforms": [],
+            "value": "1D6FA9"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "B74919",
+            "transforms": [],
+            "value": "B74919"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "F19D19",
+            "transforms": [],
+            "value": "F19D19"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      },
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "4472C4",
+          "accent2": "ED7D31",
+          "accent3": "A5A5A5",
+          "accent4": "FFC000",
+          "accent5": "5B9BD5",
+          "accent6": "70AD47",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "4472C4",
+            "transforms": [],
+            "value": "4472C4"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "ED7D31",
+            "transforms": [],
+            "value": "ED7D31"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "A5A5A5",
+            "transforms": [],
+            "value": "A5A5A5"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "FFC000",
+            "transforms": [],
+            "value": "FFC000"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "5B9BD5",
+            "transforms": [],
+            "value": "5B9BD5"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "70AD47",
+            "transforms": [],
+            "value": "70AD47"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      },
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "29AF8C",
+          "accent2": "97BE49",
+          "accent3": "3D9CCC",
+          "accent4": "7C60C6",
+          "accent5": "C9492C",
+          "accent6": "D58C2E",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "29AF8C",
+            "transforms": [],
+            "value": "29AF8C"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "97BE49",
+            "transforms": [],
+            "value": "97BE49"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "3D9CCC",
+            "transforms": [],
+            "value": "3D9CCC"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "7C60C6",
+            "transforms": [],
+            "value": "7C60C6"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "C9492C",
+            "transforms": [],
+            "value": "C9492C"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "D58C2E",
+            "transforms": [],
+            "value": "D58C2E"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      },
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "4472C4",
+          "accent2": "ED7D31",
+          "accent3": "A5A5A5",
+          "accent4": "FFC000",
+          "accent5": "5B9BD5",
+          "accent6": "70AD47",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "4472C4",
+            "transforms": [],
+            "value": "4472C4"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "ED7D31",
+            "transforms": [],
+            "value": "ED7D31"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "A5A5A5",
+            "transforms": [],
+            "value": "A5A5A5"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "FFC000",
+            "transforms": [],
+            "value": "FFC000"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "5B9BD5",
+            "transforms": [],
+            "value": "5B9BD5"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "70AD47",
+            "transforms": [],
+            "value": "70AD47"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      },
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "1D9A78",
+          "accent2": "8BC145",
+          "accent3": "36AFCE",
+          "accent4": "1D6FA9",
+          "accent5": "B74919",
+          "accent6": "F19D19",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "1D9A78",
+            "transforms": [],
+            "value": "1D9A78"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "8BC145",
+            "transforms": [],
+            "value": "8BC145"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "36AFCE",
+            "transforms": [],
+            "value": "36AFCE"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "1D6FA9",
+            "transforms": [],
+            "value": "1D6FA9"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "B74919",
+            "transforms": [],
+            "value": "B74919"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "F19D19",
+            "transforms": [],
+            "value": "F19D19"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      },
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "4472C4",
+          "accent2": "ED7D31",
+          "accent3": "A5A5A5",
+          "accent4": "FFC000",
+          "accent5": "5B9BD5",
+          "accent6": "70AD47",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "4472C4",
+            "transforms": [],
+            "value": "4472C4"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "ED7D31",
+            "transforms": [],
+            "value": "ED7D31"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "A5A5A5",
+            "transforms": [],
+            "value": "A5A5A5"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "FFC000",
+            "transforms": [],
+            "value": "FFC000"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "5B9BD5",
+            "transforms": [],
+            "value": "5B9BD5"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "70AD47",
+            "transforms": [],
+            "value": "70AD47"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      },
+      {
+        "scheme_name": "Office Theme",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "44546A",
+          "light2": "E7E6E6",
+          "accent1": "29AF8C",
+          "accent2": "97BE49",
+          "accent3": "3D9CCC",
+          "accent4": "7C60C6",
+          "accent5": "C9492C",
+          "accent6": "D58C2E",
+          "hlink": "0563C1",
+          "folHlink": "954F72"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "44546A",
+            "transforms": [],
+            "value": "44546A"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "E7E6E6",
+            "transforms": [],
+            "value": "E7E6E6"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "29AF8C",
+            "transforms": [],
+            "value": "29AF8C"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "97BE49",
+            "transforms": [],
+            "value": "97BE49"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "3D9CCC",
+            "transforms": [],
+            "value": "3D9CCC"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "7C60C6",
+            "transforms": [],
+            "value": "7C60C6"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "C9492C",
+            "transforms": [],
+            "value": "C9492C"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "D58C2E",
+            "transforms": [],
+            "value": "D58C2E"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0563C1",
+            "transforms": [],
+            "value": "0563C1"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "954F72",
+            "transforms": [],
+            "value": "954F72"
+          }
+        },
+        "fonts": {
+          "major": "Calibri Light",
+          "minor": "Calibri"
+        }
+      }
+    ],
+    "name": "office_theme"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "name": "no_zebra",
+  "kind": "table_formatter",
+  "header": {
+    "level1": {
+      "pattern": "solid",
+      "fg_color": "4472C4",
+      "bg_color": "4472C4",
+      "font_name": "Aptos",
+      "font_size": 12.0,
+      "bold": true,
+      "italic": false,
+      "font_color": "FFFFFF",
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "border_bottom": 1,
+      "border_bottom_color": "D9E2F3"
+    },
+    "level2": {
+      "pattern": "solid",
+      "fg_color": "D9E2F3",
+      "bg_color": "D9E2F3",
+      "font_name": "Aptos",
+      "font_size": 11.0,
+      "bold": true,
+      "italic": false,
+      "font_color": "1F1F1F",
+      "align": "center",
+      "valign": "center",
+      "border_bottom": 1,
+      "border_bottom_color": "D9E2F3"
+    }
+  },
+  "rows": {
+    "base": {
+      "font_name": "Aptos",
+      "font_size": 11.0,
+      "bold": false,
+      "italic": false,
+      "font_color": "222222",
+      "border_bottom": 1,
+      "border_bottom_color": "D9D9D9"
+    }
+  },
+  "cols": {
+    "default": {},
+    "by_index": {
+      "0": {
+        "num_format": "@"
+      },
+      "1": {
+        "num_format": "#,##0.00"
+      },
+      "2": {
+        "num_format": "0.0%"
+      }
+    }
+  }
+}

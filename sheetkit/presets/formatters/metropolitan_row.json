@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "row",
+  "row": {
+    "-1": {
+      "font_name": "Calibri Light",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "metropolitan:Dark2"
+    },
+    "-2": {
+      "font_name": "Calibri Light",
+      "font_size": 11,
+      "fg_color": "metropolitan:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "metropolitan:Dark2"
+    },
+    "0": {
+      "font_name": "Calibri Light",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "metropolitan:Accent1",
+      "font_color": "metropolitan:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "metropolitan:Dark2"
+    }
+  },
+  "col": {},
+  "name": "_metropolitan_row",
+  "theme": {
+    "kind": "themes",
+    "source": "Metropolitan.thmx",
+    "scheme_name": "Metropolitan",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "162F33",
+      "light2": "EAF0E0",
+      "accent1": "50B4C8",
+      "accent2": "A8B97F",
+      "accent3": "9B9256",
+      "accent4": "657689",
+      "accent5": "7A855D",
+      "accent6": "84AC9D",
+      "hlink": "2370CD",
+      "folHlink": "877589"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "162F33",
+        "transforms": [],
+        "value": "162F33"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "EAF0E0",
+        "transforms": [],
+        "value": "EAF0E0"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "50B4C8",
+        "transforms": [],
+        "value": "50B4C8"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "A8B97F",
+        "transforms": [],
+        "value": "A8B97F"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "9B9256",
+        "transforms": [],
+        "value": "9B9256"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "657689",
+        "transforms": [],
+        "value": "657689"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "7A855D",
+        "transforms": [],
+        "value": "7A855D"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "84AC9D",
+        "transforms": [],
+        "value": "84AC9D"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "2370CD",
+        "transforms": [],
+        "value": "2370CD"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "877589",
+        "transforms": [],
+        "value": "877589"
+      }
+    },
+    "fonts": {
+      "major": "Calibri Light",
+      "minor": "Calibri Light"
+    },
+    "name": "metropolitan"
+  }
+}

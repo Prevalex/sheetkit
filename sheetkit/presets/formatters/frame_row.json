@@ -1,0 +1,131 @@
+{
+  "kind": "formatter",
+  "priority": "row",
+  "row": {
+    "-1": {
+      "font_name": "Corbel",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "frame:Dark2"
+    },
+    "-2": {
+      "font_name": "Corbel",
+      "font_size": 11,
+      "fg_color": "frame:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "frame:Dark2"
+    },
+    "0": {
+      "font_name": "Corbel",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "frame:Accent1",
+      "font_color": "frame:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "frame:Dark2"
+    }
+  },
+  "col": {},
+  "name": "_frame_row",
+  "theme": {
+    "kind": "themes",
+    "source": "Frame.thmx",
+    "scheme_name": "Frame",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "545454",
+      "light2": "BFBFBF",
+      "accent1": "40BAD2",
+      "accent2": "FAB900",
+      "accent3": "90BB23",
+      "accent4": "EE7008",
+      "accent5": "1AB39F",
+      "accent6": "D5393D",
+      "hlink": "90BB23",
+      "folHlink": "EE7008"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "srgbClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "000000"
+      },
+      "light1": {
+        "color_type": "srgbClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "545454",
+        "transforms": [],
+        "value": "545454"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "BFBFBF",
+        "transforms": [],
+        "value": "BFBFBF"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "40BAD2",
+        "transforms": [],
+        "value": "40BAD2"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "FAB900",
+        "transforms": [],
+        "value": "FAB900"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "90BB23",
+        "transforms": [],
+        "value": "90BB23"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "EE7008",
+        "transforms": [],
+        "value": "EE7008"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "1AB39F",
+        "transforms": [],
+        "value": "1AB39F"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "D5393D",
+        "transforms": [],
+        "value": "D5393D"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "90BB23",
+        "transforms": [],
+        "value": "90BB23"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "EE7008",
+        "transforms": [],
+        "value": "EE7008"
+      }
+    },
+    "fonts": {
+      "major": "Corbel",
+      "minor": "Corbel"
+    },
+    "name": "frame"
+  }
+}

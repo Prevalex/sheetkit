@@ -1,0 +1,99 @@
+{
+  "kind": "themes",
+  "source": "Savon.thmx",
+  "scheme_name": "Savon",
+  "colors": {
+    "dark1": "000000",
+    "light1": "FFFFFF",
+    "dark2": "1485A4",
+    "light2": "E3DED1",
+    "accent1": "1CADE4",
+    "accent2": "2683C6",
+    "accent3": "27CED7",
+    "accent4": "42BA97",
+    "accent5": "3E8853",
+    "accent6": "62A39F",
+    "hlink": "F49100",
+    "folHlink": "739D9B"
+  },
+  "color_transforms": {
+    "dark1": {
+      "color_type": "sysClr",
+      "resolved_value": "000000",
+      "transforms": [],
+      "value": "windowText",
+      "lastClr": "000000"
+    },
+    "light1": {
+      "color_type": "sysClr",
+      "resolved_value": "FFFFFF",
+      "transforms": [],
+      "value": "window",
+      "lastClr": "FFFFFF"
+    },
+    "dark2": {
+      "color_type": "srgbClr",
+      "resolved_value": "1485A4",
+      "transforms": [],
+      "value": "1485A4"
+    },
+    "light2": {
+      "color_type": "srgbClr",
+      "resolved_value": "E3DED1",
+      "transforms": [],
+      "value": "E3DED1"
+    },
+    "accent1": {
+      "color_type": "srgbClr",
+      "resolved_value": "1CADE4",
+      "transforms": [],
+      "value": "1CADE4"
+    },
+    "accent2": {
+      "color_type": "srgbClr",
+      "resolved_value": "2683C6",
+      "transforms": [],
+      "value": "2683C6"
+    },
+    "accent3": {
+      "color_type": "srgbClr",
+      "resolved_value": "27CED7",
+      "transforms": [],
+      "value": "27CED7"
+    },
+    "accent4": {
+      "color_type": "srgbClr",
+      "resolved_value": "42BA97",
+      "transforms": [],
+      "value": "42BA97"
+    },
+    "accent5": {
+      "color_type": "srgbClr",
+      "resolved_value": "3E8853",
+      "transforms": [],
+      "value": "3E8853"
+    },
+    "accent6": {
+      "color_type": "srgbClr",
+      "resolved_value": "62A39F",
+      "transforms": [],
+      "value": "62A39F"
+    },
+    "hlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "F49100",
+      "transforms": [],
+      "value": "F49100"
+    },
+    "folHlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "739D9B",
+      "transforms": [],
+      "value": "739D9B"
+    }
+  },
+  "fonts": {
+    "major": "Century Gothic",
+    "minor": "Century Gothic"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Rockwell",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "wood_type:Dark2"
+    },
+    "-2": {
+      "font_name": "Rockwell",
+      "font_size": 11,
+      "fg_color": "wood_type:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "wood_type:Dark2"
+    },
+    "0": {
+      "font_name": "Rockwell",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "wood_type:Accent1",
+      "font_color": "wood_type:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "wood_type:Dark2"
+    }
+  },
+  "name": "_wood_type_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Wood Type.thmx",
+    "scheme_name": "Wood Type",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "696464",
+      "light2": "E9E5DC",
+      "accent1": "D34817",
+      "accent2": "9B2D1F",
+      "accent3": "A28E6A",
+      "accent4": "956251",
+      "accent5": "918485",
+      "accent6": "855D5D",
+      "hlink": "CC9900",
+      "folHlink": "96A9A9"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "696464",
+        "transforms": [],
+        "value": "696464"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "E9E5DC",
+        "transforms": [],
+        "value": "E9E5DC"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "D34817",
+        "transforms": [],
+        "value": "D34817"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "9B2D1F",
+        "transforms": [],
+        "value": "9B2D1F"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "A28E6A",
+        "transforms": [],
+        "value": "A28E6A"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "956251",
+        "transforms": [],
+        "value": "956251"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "918485",
+        "transforms": [],
+        "value": "918485"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "855D5D",
+        "transforms": [],
+        "value": "855D5D"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "CC9900",
+        "transforms": [],
+        "value": "CC9900"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "96A9A9",
+        "transforms": [],
+        "value": "96A9A9"
+      }
+    },
+    "fonts": {
+      "major": "Rockwell Condensed",
+      "minor": "Rockwell"
+    },
+    "name": "wood_type"
+  }
+}

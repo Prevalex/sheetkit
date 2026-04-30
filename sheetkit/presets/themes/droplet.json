@@ -1,0 +1,99 @@
+{
+  "kind": "themes",
+  "source": "Droplet.thmx",
+  "scheme_name": "Droplet",
+  "colors": {
+    "dark1": "000000",
+    "light1": "FFFFFF",
+    "dark2": "355071",
+    "light2": "AABED7",
+    "accent1": "2FA3EE",
+    "accent2": "4BCAAD",
+    "accent3": "86C157",
+    "accent4": "D99C3F",
+    "accent5": "CE6633",
+    "accent6": "A35DD1",
+    "hlink": "56BCFE",
+    "folHlink": "97C5E3"
+  },
+  "color_transforms": {
+    "dark1": {
+      "color_type": "sysClr",
+      "resolved_value": "000000",
+      "transforms": [],
+      "value": "windowText",
+      "lastClr": "000000"
+    },
+    "light1": {
+      "color_type": "sysClr",
+      "resolved_value": "FFFFFF",
+      "transforms": [],
+      "value": "window",
+      "lastClr": "FFFFFF"
+    },
+    "dark2": {
+      "color_type": "srgbClr",
+      "resolved_value": "355071",
+      "transforms": [],
+      "value": "355071"
+    },
+    "light2": {
+      "color_type": "srgbClr",
+      "resolved_value": "AABED7",
+      "transforms": [],
+      "value": "AABED7"
+    },
+    "accent1": {
+      "color_type": "srgbClr",
+      "resolved_value": "2FA3EE",
+      "transforms": [],
+      "value": "2FA3EE"
+    },
+    "accent2": {
+      "color_type": "srgbClr",
+      "resolved_value": "4BCAAD",
+      "transforms": [],
+      "value": "4BCAAD"
+    },
+    "accent3": {
+      "color_type": "srgbClr",
+      "resolved_value": "86C157",
+      "transforms": [],
+      "value": "86C157"
+    },
+    "accent4": {
+      "color_type": "srgbClr",
+      "resolved_value": "D99C3F",
+      "transforms": [],
+      "value": "D99C3F"
+    },
+    "accent5": {
+      "color_type": "srgbClr",
+      "resolved_value": "CE6633",
+      "transforms": [],
+      "value": "CE6633"
+    },
+    "accent6": {
+      "color_type": "srgbClr",
+      "resolved_value": "A35DD1",
+      "transforms": [],
+      "value": "A35DD1"
+    },
+    "hlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "56BCFE",
+      "transforms": [],
+      "value": "56BCFE"
+    },
+    "folHlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "97C5E3",
+      "transforms": [],
+      "value": "97C5E3"
+    }
+  },
+  "fonts": {
+    "major": "Tw Cen MT",
+    "minor": "Tw Cen MT"
+  }
+}

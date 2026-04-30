@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Tw Cen MT",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "droplet:Dark2"
+    },
+    "-2": {
+      "font_name": "Tw Cen MT",
+      "font_size": 11,
+      "fg_color": "droplet:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "droplet:Dark2"
+    },
+    "0": {
+      "font_name": "Tw Cen MT",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "droplet:Accent1",
+      "font_color": "droplet:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "droplet:Dark2"
+    }
+  },
+  "name": "_droplet_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Droplet.thmx",
+    "scheme_name": "Droplet",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "355071",
+      "light2": "AABED7",
+      "accent1": "2FA3EE",
+      "accent2": "4BCAAD",
+      "accent3": "86C157",
+      "accent4": "D99C3F",
+      "accent5": "CE6633",
+      "accent6": "A35DD1",
+      "hlink": "56BCFE",
+      "folHlink": "97C5E3"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "355071",
+        "transforms": [],
+        "value": "355071"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "AABED7",
+        "transforms": [],
+        "value": "AABED7"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "2FA3EE",
+        "transforms": [],
+        "value": "2FA3EE"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "4BCAAD",
+        "transforms": [],
+        "value": "4BCAAD"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "86C157",
+        "transforms": [],
+        "value": "86C157"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "D99C3F",
+        "transforms": [],
+        "value": "D99C3F"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "CE6633",
+        "transforms": [],
+        "value": "CE6633"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "A35DD1",
+        "transforms": [],
+        "value": "A35DD1"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "56BCFE",
+        "transforms": [],
+        "value": "56BCFE"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "97C5E3",
+        "transforms": [],
+        "value": "97C5E3"
+      }
+    },
+    "fonts": {
+      "major": "Tw Cen MT",
+      "minor": "Tw Cen MT"
+    },
+    "name": "droplet"
+  }
+}

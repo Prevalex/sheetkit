@@ -1,0 +1,131 @@
+{
+  "kind": "formatter",
+  "priority": "row",
+  "row": {
+    "-1": {
+      "font_name": "Century Schoolbook",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "view:Dark2"
+    },
+    "-2": {
+      "font_name": "Century Schoolbook",
+      "font_size": 11,
+      "fg_color": "view:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "view:Dark2"
+    },
+    "0": {
+      "font_name": "Century Schoolbook",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "view:Accent1",
+      "font_color": "view:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "view:Dark2"
+    }
+  },
+  "col": {},
+  "name": "_view_row",
+  "theme": {
+    "kind": "themes",
+    "source": "View.thmx",
+    "scheme_name": "View",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "46464A",
+      "light2": "D6D3CC",
+      "accent1": "6F6F74",
+      "accent2": "92A9B9",
+      "accent3": "A7B789",
+      "accent4": "B9A489",
+      "accent5": "8D6374",
+      "accent6": "9B7362",
+      "hlink": "67AABF",
+      "folHlink": "ABAFA5"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "srgbClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "000000"
+      },
+      "light1": {
+        "color_type": "srgbClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "46464A",
+        "transforms": [],
+        "value": "46464A"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "D6D3CC",
+        "transforms": [],
+        "value": "D6D3CC"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "6F6F74",
+        "transforms": [],
+        "value": "6F6F74"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "92A9B9",
+        "transforms": [],
+        "value": "92A9B9"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "A7B789",
+        "transforms": [],
+        "value": "A7B789"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "B9A489",
+        "transforms": [],
+        "value": "B9A489"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "8D6374",
+        "transforms": [],
+        "value": "8D6374"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "9B7362",
+        "transforms": [],
+        "value": "9B7362"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "67AABF",
+        "transforms": [],
+        "value": "67AABF"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "ABAFA5",
+        "transforms": [],
+        "value": "ABAFA5"
+      }
+    },
+    "fonts": {
+      "major": "Century Schoolbook",
+      "minor": "Century Schoolbook"
+    },
+    "name": "view"
+  }
+}

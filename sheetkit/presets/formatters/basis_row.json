@@ -1,0 +1,131 @@
+{
+  "kind": "formatter",
+  "priority": "row",
+  "row": {
+    "-1": {
+      "font_name": "Corbel",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "basis:Dark2"
+    },
+    "-2": {
+      "font_name": "Corbel",
+      "font_size": 11,
+      "fg_color": "basis:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "basis:Dark2"
+    },
+    "0": {
+      "font_name": "Corbel",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "basis:Accent1",
+      "font_color": "basis:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "basis:Dark2"
+    }
+  },
+  "col": {},
+  "name": "_basis_row",
+  "theme": {
+    "kind": "themes",
+    "source": "Basis.thmx",
+    "scheme_name": "Bases",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "565349",
+      "light2": "DDDDDD",
+      "accent1": "A6B727",
+      "accent2": "DF5327",
+      "accent3": "FE9E00",
+      "accent4": "418AB3",
+      "accent5": "D7D447",
+      "accent6": "818183",
+      "hlink": "F59E00",
+      "folHlink": "B2B2B2"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "srgbClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "000000"
+      },
+      "light1": {
+        "color_type": "srgbClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "565349",
+        "transforms": [],
+        "value": "565349"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "DDDDDD",
+        "transforms": [],
+        "value": "DDDDDD"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "A6B727",
+        "transforms": [],
+        "value": "A6B727"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "DF5327",
+        "transforms": [],
+        "value": "DF5327"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "FE9E00",
+        "transforms": [],
+        "value": "FE9E00"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "418AB3",
+        "transforms": [],
+        "value": "418AB3"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "D7D447",
+        "transforms": [],
+        "value": "D7D447"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "818183",
+        "transforms": [],
+        "value": "818183"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "F59E00",
+        "transforms": [],
+        "value": "F59E00"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "B2B2B2",
+        "transforms": [],
+        "value": "B2B2B2"
+      }
+    },
+    "fonts": {
+      "major": "Corbel",
+      "minor": "Corbel"
+    },
+    "name": "basis"
+  }
+}

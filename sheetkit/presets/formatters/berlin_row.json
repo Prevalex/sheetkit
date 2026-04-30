@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "row",
+  "row": {
+    "-1": {
+      "font_name": "Trebuchet MS",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "berlin:Dark2"
+    },
+    "-2": {
+      "font_name": "Trebuchet MS",
+      "font_size": 11,
+      "fg_color": "berlin:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "berlin:Dark2"
+    },
+    "0": {
+      "font_name": "Trebuchet MS",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "berlin:Accent1",
+      "font_color": "berlin:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "berlin:Dark2"
+    }
+  },
+  "col": {},
+  "name": "_berlin_row",
+  "theme": {
+    "kind": "themes",
+    "source": "Berlin.thmx",
+    "scheme_name": "Berlin",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "9D360E",
+      "light2": "E7E6E6",
+      "accent1": "F09415",
+      "accent2": "C1B56B",
+      "accent3": "4BAF73",
+      "accent4": "5AA6C0",
+      "accent5": "D17DF9",
+      "accent6": "FA7E5C",
+      "hlink": "FFAE3E",
+      "folHlink": "FCC77E"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "9D360E",
+        "transforms": [],
+        "value": "9D360E"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "E7E6E6",
+        "transforms": [],
+        "value": "E7E6E6"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "F09415",
+        "transforms": [],
+        "value": "F09415"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "C1B56B",
+        "transforms": [],
+        "value": "C1B56B"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "4BAF73",
+        "transforms": [],
+        "value": "4BAF73"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "5AA6C0",
+        "transforms": [],
+        "value": "5AA6C0"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "D17DF9",
+        "transforms": [],
+        "value": "D17DF9"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "FA7E5C",
+        "transforms": [],
+        "value": "FA7E5C"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "FFAE3E",
+        "transforms": [],
+        "value": "FFAE3E"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "FCC77E",
+        "transforms": [],
+        "value": "FCC77E"
+      }
+    },
+    "fonts": {
+      "major": "Trebuchet MS",
+      "minor": "Trebuchet MS"
+    },
+    "name": "berlin"
+  }
+}

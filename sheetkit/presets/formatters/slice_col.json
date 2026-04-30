@@ -1,0 +1,814 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Century Gothic",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "slice:Dark2"
+    },
+    "-2": {
+      "font_name": "Century Gothic",
+      "font_size": 11,
+      "fg_color": "slice:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "slice:Dark2"
+    },
+    "0": {
+      "font_name": "Century Gothic",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "slice:Accent1",
+      "font_color": "slice:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "slice:Dark2"
+    }
+  },
+  "name": "slice_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Slice.thmx",
+    "scheme_name": "Slice",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "146194",
+      "light2": "76DBF4",
+      "accent1": "052F61",
+      "accent2": "A50E82",
+      "accent3": "14967C",
+      "accent4": "6A9E1F",
+      "accent5": "E87D37",
+      "accent6": "C62324",
+      "hlink": "0D2E46",
+      "folHlink": "356A95"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "146194",
+        "transforms": [],
+        "value": "146194"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "76DBF4",
+        "transforms": [],
+        "value": "76DBF4"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "052F61",
+        "transforms": [],
+        "value": "052F61"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "A50E82",
+        "transforms": [],
+        "value": "A50E82"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "14967C",
+        "transforms": [],
+        "value": "14967C"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "6A9E1F",
+        "transforms": [],
+        "value": "6A9E1F"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "E87D37",
+        "transforms": [],
+        "value": "E87D37"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "C62324",
+        "transforms": [],
+        "value": "C62324"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "0D2E46",
+        "transforms": [],
+        "value": "0D2E46"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "356A95",
+        "transforms": [],
+        "value": "356A95"
+      }
+    },
+    "fonts": {
+      "major": "Century Gothic",
+      "minor": "Century Gothic"
+    },
+    "variants": [
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "537D0B",
+          "light2": "A9E257",
+          "accent1": "38540A",
+          "accent2": "31A274",
+          "accent3": "236073",
+          "accent4": "6C4D90",
+          "accent5": "983C27",
+          "accent6": "CD811F",
+          "hlink": "293F06",
+          "folHlink": "68883A"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "537D0B",
+            "transforms": [],
+            "value": "537D0B"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "A9E257",
+            "transforms": [],
+            "value": "A9E257"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "38540A",
+            "transforms": [],
+            "value": "38540A"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "31A274",
+            "transforms": [],
+            "value": "31A274"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "236073",
+            "transforms": [],
+            "value": "236073"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "6C4D90",
+            "transforms": [],
+            "value": "6C4D90"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "983C27",
+            "transforms": [],
+            "value": "983C27"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "CD811F",
+            "transforms": [],
+            "value": "CD811F"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "293F06",
+            "transforms": [],
+            "value": "293F06"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "68883A",
+            "transforms": [],
+            "value": "68883A"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      },
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "AD2E03",
+          "light2": "D75626",
+          "accent1": "760603",
+          "accent2": "FA9C1F",
+          "accent3": "D9BB55",
+          "accent4": "829551",
+          "accent5": "58A28B",
+          "accent6": "426480",
+          "hlink": "460402",
+          "folHlink": "991111"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "AD2E03",
+            "transforms": [],
+            "value": "AD2E03"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "D75626",
+            "transforms": [],
+            "value": "D75626"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "760603",
+            "transforms": [],
+            "value": "760603"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "FA9C1F",
+            "transforms": [],
+            "value": "FA9C1F"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "D9BB55",
+            "transforms": [],
+            "value": "D9BB55"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "829551",
+            "transforms": [],
+            "value": "829551"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "58A28B",
+            "transforms": [],
+            "value": "58A28B"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "426480",
+            "transforms": [],
+            "value": "426480"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "460402",
+            "transforms": [],
+            "value": "460402"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "991111",
+            "transforms": [],
+            "value": "991111"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      },
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "D06F1E",
+          "light2": "F0BE21",
+          "accent1": "760603",
+          "accent2": "9F761A",
+          "accent3": "92A200",
+          "accent4": "4AA157",
+          "accent5": "46788D",
+          "accent6": "A848A8",
+          "hlink": "460402",
+          "folHlink": "991111"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "D06F1E",
+            "transforms": [],
+            "value": "D06F1E"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "F0BE21",
+            "transforms": [],
+            "value": "F0BE21"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "760603",
+            "transforms": [],
+            "value": "760603"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "9F761A",
+            "transforms": [],
+            "value": "9F761A"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "92A200",
+            "transforms": [],
+            "value": "92A200"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "4AA157",
+            "transforms": [],
+            "value": "4AA157"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "46788D",
+            "transforms": [],
+            "value": "46788D"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "A848A8",
+            "transforms": [],
+            "value": "A848A8"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "460402",
+            "transforms": [],
+            "value": "460402"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "991111",
+            "transforms": [],
+            "value": "991111"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      },
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "146194",
+          "light2": "76DBF4",
+          "accent1": "052F61",
+          "accent2": "A50E82",
+          "accent3": "14967C",
+          "accent4": "6A9E1F",
+          "accent5": "E87D37",
+          "accent6": "C62324",
+          "hlink": "0D2E46",
+          "folHlink": "356A95"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "146194",
+            "transforms": [],
+            "value": "146194"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "76DBF4",
+            "transforms": [],
+            "value": "76DBF4"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "052F61",
+            "transforms": [],
+            "value": "052F61"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "A50E82",
+            "transforms": [],
+            "value": "A50E82"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "14967C",
+            "transforms": [],
+            "value": "14967C"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "6A9E1F",
+            "transforms": [],
+            "value": "6A9E1F"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "E87D37",
+            "transforms": [],
+            "value": "E87D37"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "C62324",
+            "transforms": [],
+            "value": "C62324"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "0D2E46",
+            "transforms": [],
+            "value": "0D2E46"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "356A95",
+            "transforms": [],
+            "value": "356A95"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      },
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "537D0B",
+          "light2": "A9E257",
+          "accent1": "38540A",
+          "accent2": "31A274",
+          "accent3": "236073",
+          "accent4": "6C4D90",
+          "accent5": "983C27",
+          "accent6": "CD811F",
+          "hlink": "293F06",
+          "folHlink": "68883A"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "537D0B",
+            "transforms": [],
+            "value": "537D0B"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "A9E257",
+            "transforms": [],
+            "value": "A9E257"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "38540A",
+            "transforms": [],
+            "value": "38540A"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "31A274",
+            "transforms": [],
+            "value": "31A274"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "236073",
+            "transforms": [],
+            "value": "236073"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "6C4D90",
+            "transforms": [],
+            "value": "6C4D90"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "983C27",
+            "transforms": [],
+            "value": "983C27"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "CD811F",
+            "transforms": [],
+            "value": "CD811F"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "293F06",
+            "transforms": [],
+            "value": "293F06"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "68883A",
+            "transforms": [],
+            "value": "68883A"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      },
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "AD2E03",
+          "light2": "D75626",
+          "accent1": "760603",
+          "accent2": "FA9C1F",
+          "accent3": "D9BB55",
+          "accent4": "829551",
+          "accent5": "58A28B",
+          "accent6": "426480",
+          "hlink": "460402",
+          "folHlink": "991111"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "AD2E03",
+            "transforms": [],
+            "value": "AD2E03"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "D75626",
+            "transforms": [],
+            "value": "D75626"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "760603",
+            "transforms": [],
+            "value": "760603"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "FA9C1F",
+            "transforms": [],
+            "value": "FA9C1F"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "D9BB55",
+            "transforms": [],
+            "value": "D9BB55"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "829551",
+            "transforms": [],
+            "value": "829551"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "58A28B",
+            "transforms": [],
+            "value": "58A28B"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "426480",
+            "transforms": [],
+            "value": "426480"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "460402",
+            "transforms": [],
+            "value": "460402"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "991111",
+            "transforms": [],
+            "value": "991111"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      },
+      {
+        "scheme_name": "Slice",
+        "colors": {
+          "dark1": "000000",
+          "light1": "FFFFFF",
+          "dark2": "D06F1E",
+          "light2": "F0BE21",
+          "accent1": "760603",
+          "accent2": "9F761A",
+          "accent3": "92A200",
+          "accent4": "4AA157",
+          "accent5": "46788D",
+          "accent6": "A848A8",
+          "hlink": "460402",
+          "folHlink": "991111"
+        },
+        "color_transforms": {
+          "dark1": {
+            "color_type": "sysClr",
+            "resolved_value": "000000",
+            "transforms": [],
+            "value": "windowText",
+            "lastClr": "000000"
+          },
+          "light1": {
+            "color_type": "sysClr",
+            "resolved_value": "FFFFFF",
+            "transforms": [],
+            "value": "window",
+            "lastClr": "FFFFFF"
+          },
+          "dark2": {
+            "color_type": "srgbClr",
+            "resolved_value": "D06F1E",
+            "transforms": [],
+            "value": "D06F1E"
+          },
+          "light2": {
+            "color_type": "srgbClr",
+            "resolved_value": "F0BE21",
+            "transforms": [],
+            "value": "F0BE21"
+          },
+          "accent1": {
+            "color_type": "srgbClr",
+            "resolved_value": "760603",
+            "transforms": [],
+            "value": "760603"
+          },
+          "accent2": {
+            "color_type": "srgbClr",
+            "resolved_value": "9F761A",
+            "transforms": [],
+            "value": "9F761A"
+          },
+          "accent3": {
+            "color_type": "srgbClr",
+            "resolved_value": "92A200",
+            "transforms": [],
+            "value": "92A200"
+          },
+          "accent4": {
+            "color_type": "srgbClr",
+            "resolved_value": "4AA157",
+            "transforms": [],
+            "value": "4AA157"
+          },
+          "accent5": {
+            "color_type": "srgbClr",
+            "resolved_value": "46788D",
+            "transforms": [],
+            "value": "46788D"
+          },
+          "accent6": {
+            "color_type": "srgbClr",
+            "resolved_value": "A848A8",
+            "transforms": [],
+            "value": "A848A8"
+          },
+          "hlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "460402",
+            "transforms": [],
+            "value": "460402"
+          },
+          "folHlink": {
+            "color_type": "srgbClr",
+            "resolved_value": "991111",
+            "transforms": [],
+            "value": "991111"
+          }
+        },
+        "fonts": {
+          "major": "Century Gothic",
+          "minor": "Century Gothic"
+        }
+      }
+    ],
+    "name": "slice"
+  }
+}

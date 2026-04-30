@@ -1,0 +1,97 @@
+{
+  "kind": "themes",
+  "source": "Parcel.thmx",
+  "scheme_name": "Parcel",
+  "colors": {
+    "dark1": "000000",
+    "light1": "FFFFFF",
+    "dark2": "4A5356",
+    "light2": "E8E3CE",
+    "accent1": "F6A21D",
+    "accent2": "9BAFB5",
+    "accent3": "C96731",
+    "accent4": "9CA383",
+    "accent5": "87795D",
+    "accent6": "A0988C",
+    "hlink": "00B0F0",
+    "folHlink": "738F97"
+  },
+  "color_transforms": {
+    "dark1": {
+      "color_type": "srgbClr",
+      "resolved_value": "000000",
+      "transforms": [],
+      "value": "000000"
+    },
+    "light1": {
+      "color_type": "srgbClr",
+      "resolved_value": "FFFFFF",
+      "transforms": [],
+      "value": "FFFFFF"
+    },
+    "dark2": {
+      "color_type": "srgbClr",
+      "resolved_value": "4A5356",
+      "transforms": [],
+      "value": "4A5356"
+    },
+    "light2": {
+      "color_type": "srgbClr",
+      "resolved_value": "E8E3CE",
+      "transforms": [],
+      "value": "E8E3CE"
+    },
+    "accent1": {
+      "color_type": "srgbClr",
+      "resolved_value": "F6A21D",
+      "transforms": [],
+      "value": "F6A21D"
+    },
+    "accent2": {
+      "color_type": "srgbClr",
+      "resolved_value": "9BAFB5",
+      "transforms": [],
+      "value": "9BAFB5"
+    },
+    "accent3": {
+      "color_type": "srgbClr",
+      "resolved_value": "C96731",
+      "transforms": [],
+      "value": "C96731"
+    },
+    "accent4": {
+      "color_type": "srgbClr",
+      "resolved_value": "9CA383",
+      "transforms": [],
+      "value": "9CA383"
+    },
+    "accent5": {
+      "color_type": "srgbClr",
+      "resolved_value": "87795D",
+      "transforms": [],
+      "value": "87795D"
+    },
+    "accent6": {
+      "color_type": "srgbClr",
+      "resolved_value": "A0988C",
+      "transforms": [],
+      "value": "A0988C"
+    },
+    "hlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "00B0F0",
+      "transforms": [],
+      "value": "00B0F0"
+    },
+    "folHlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "738F97",
+      "transforms": [],
+      "value": "738F97"
+    }
+  },
+  "fonts": {
+    "major": "Gill Sans MT",
+    "minor": "Gill Sans MT"
+  }
+}

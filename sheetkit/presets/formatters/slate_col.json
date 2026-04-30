@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Calisto MT",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "slate:Dark2"
+    },
+    "-2": {
+      "font_name": "Calisto MT",
+      "font_size": 11,
+      "fg_color": "slate:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "slate:Dark2"
+    },
+    "0": {
+      "font_name": "Calisto MT",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "slate:Accent1",
+      "font_color": "slate:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "slate:Dark2"
+    }
+  },
+  "name": "_slate_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Slate.thmx",
+    "scheme_name": "Slate",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "212123",
+      "light2": "DADADA",
+      "accent1": "BC451B",
+      "accent2": "D3BA68",
+      "accent3": "BB8640",
+      "accent4": "AD9277",
+      "accent5": "A55A43",
+      "accent6": "AD9D7B",
+      "hlink": "E98052",
+      "folHlink": "F4B69B"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "212123",
+        "transforms": [],
+        "value": "212123"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "DADADA",
+        "transforms": [],
+        "value": "DADADA"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "BC451B",
+        "transforms": [],
+        "value": "BC451B"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "D3BA68",
+        "transforms": [],
+        "value": "D3BA68"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "BB8640",
+        "transforms": [],
+        "value": "BB8640"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "AD9277",
+        "transforms": [],
+        "value": "AD9277"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "A55A43",
+        "transforms": [],
+        "value": "A55A43"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "AD9D7B",
+        "transforms": [],
+        "value": "AD9D7B"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "E98052",
+        "transforms": [],
+        "value": "E98052"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "F4B69B",
+        "transforms": [],
+        "value": "F4B69B"
+      }
+    },
+    "fonts": {
+      "major": "Calisto MT",
+      "minor": "Calisto MT"
+    },
+    "name": "slate"
+  }
+}

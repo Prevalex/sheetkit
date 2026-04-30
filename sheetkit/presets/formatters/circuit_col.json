@@ -1,0 +1,133 @@
+{
+  "kind": "formatter",
+  "priority": "col",
+  "row": {},
+  "col": {
+    "-1": {
+      "font_name": "Tw Cen MT",
+      "font_size": 11,
+      "border_bottom": 1,
+      "border_bottom_color": "circuit:Dark2"
+    },
+    "-2": {
+      "font_name": "Tw Cen MT",
+      "font_size": 11,
+      "fg_color": "circuit:Accent1+80",
+      "border_bottom": 1,
+      "border_bottom_color": "circuit:Dark2"
+    },
+    "0": {
+      "font_name": "Tw Cen MT",
+      "font_size": 11,
+      "bold": true,
+      "align": "center",
+      "valign": "center",
+      "text_wrap": true,
+      "fg_color": "circuit:Accent1",
+      "font_color": "circuit:Light1",
+      "border_bottom": 1,
+      "border_bottom_color": "circuit:Dark2"
+    }
+  },
+  "name": "_circuit_col",
+  "theme": {
+    "kind": "themes",
+    "source": "Circuit.thmx",
+    "scheme_name": "Circuit",
+    "colors": {
+      "dark1": "000000",
+      "light1": "FFFFFF",
+      "dark2": "134770",
+      "light2": "82FFFF",
+      "accent1": "9ACD4C",
+      "accent2": "FAA93A",
+      "accent3": "D35940",
+      "accent4": "B258D3",
+      "accent5": "63A0CC",
+      "accent6": "8AC4A7",
+      "hlink": "B8FA56",
+      "folHlink": "7AF8CC"
+    },
+    "color_transforms": {
+      "dark1": {
+        "color_type": "sysClr",
+        "resolved_value": "000000",
+        "transforms": [],
+        "value": "windowText",
+        "lastClr": "000000"
+      },
+      "light1": {
+        "color_type": "sysClr",
+        "resolved_value": "FFFFFF",
+        "transforms": [],
+        "value": "window",
+        "lastClr": "FFFFFF"
+      },
+      "dark2": {
+        "color_type": "srgbClr",
+        "resolved_value": "134770",
+        "transforms": [],
+        "value": "134770"
+      },
+      "light2": {
+        "color_type": "srgbClr",
+        "resolved_value": "82FFFF",
+        "transforms": [],
+        "value": "82FFFF"
+      },
+      "accent1": {
+        "color_type": "srgbClr",
+        "resolved_value": "9ACD4C",
+        "transforms": [],
+        "value": "9ACD4C"
+      },
+      "accent2": {
+        "color_type": "srgbClr",
+        "resolved_value": "FAA93A",
+        "transforms": [],
+        "value": "FAA93A"
+      },
+      "accent3": {
+        "color_type": "srgbClr",
+        "resolved_value": "D35940",
+        "transforms": [],
+        "value": "D35940"
+      },
+      "accent4": {
+        "color_type": "srgbClr",
+        "resolved_value": "B258D3",
+        "transforms": [],
+        "value": "B258D3"
+      },
+      "accent5": {
+        "color_type": "srgbClr",
+        "resolved_value": "63A0CC",
+        "transforms": [],
+        "value": "63A0CC"
+      },
+      "accent6": {
+        "color_type": "srgbClr",
+        "resolved_value": "8AC4A7",
+        "transforms": [],
+        "value": "8AC4A7"
+      },
+      "hlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "B8FA56",
+        "transforms": [],
+        "value": "B8FA56"
+      },
+      "folHlink": {
+        "color_type": "srgbClr",
+        "resolved_value": "7AF8CC",
+        "transforms": [],
+        "value": "7AF8CC"
+      }
+    },
+    "fonts": {
+      "major": "Tw Cen MT",
+      "minor": "Tw Cen MT"
+    },
+    "name": "circuit"
+  }
+}

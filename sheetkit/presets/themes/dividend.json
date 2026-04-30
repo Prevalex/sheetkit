@@ -1,0 +1,99 @@
+{
+  "kind": "themes",
+  "source": "Dividend.thmx",
+  "scheme_name": "Dividend",
+  "colors": {
+    "dark1": "000000",
+    "light1": "FFFFFF",
+    "dark2": "3D3D3D",
+    "light2": "EBEBEB",
+    "accent1": "4D1434",
+    "accent2": "903163",
+    "accent3": "B2324B",
+    "accent4": "969FA7",
+    "accent5": "66B1CE",
+    "accent6": "40619D",
+    "hlink": "828282",
+    "folHlink": "A5A5A5"
+  },
+  "color_transforms": {
+    "dark1": {
+      "color_type": "sysClr",
+      "resolved_value": "000000",
+      "transforms": [],
+      "value": "windowText",
+      "lastClr": "000000"
+    },
+    "light1": {
+      "color_type": "sysClr",
+      "resolved_value": "FFFFFF",
+      "transforms": [],
+      "value": "window",
+      "lastClr": "FFFFFF"
+    },
+    "dark2": {
+      "color_type": "srgbClr",
+      "resolved_value": "3D3D3D",
+      "transforms": [],
+      "value": "3D3D3D"
+    },
+    "light2": {
+      "color_type": "srgbClr",
+      "resolved_value": "EBEBEB",
+      "transforms": [],
+      "value": "EBEBEB"
+    },
+    "accent1": {
+      "color_type": "srgbClr",
+      "resolved_value": "4D1434",
+      "transforms": [],
+      "value": "4D1434"
+    },
+    "accent2": {
+      "color_type": "srgbClr",
+      "resolved_value": "903163",
+      "transforms": [],
+      "value": "903163"
+    },
+    "accent3": {
+      "color_type": "srgbClr",
+      "resolved_value": "B2324B",
+      "transforms": [],
+      "value": "B2324B"
+    },
+    "accent4": {
+      "color_type": "srgbClr",
+      "resolved_value": "969FA7",
+      "transforms": [],
+      "value": "969FA7"
+    },
+    "accent5": {
+      "color_type": "srgbClr",
+      "resolved_value": "66B1CE",
+      "transforms": [],
+      "value": "66B1CE"
+    },
+    "accent6": {
+      "color_type": "srgbClr",
+      "resolved_value": "40619D",
+      "transforms": [],
+      "value": "40619D"
+    },
+    "hlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "828282",
+      "transforms": [],
+      "value": "828282"
+    },
+    "folHlink": {
+      "color_type": "srgbClr",
+      "resolved_value": "A5A5A5",
+      "transforms": [],
+      "value": "A5A5A5"
+    }
+  },
+  "fonts": {
+    "major": "Gill Sans MT",
+    "minor": "Gill Sans MT"
+  }
+}
